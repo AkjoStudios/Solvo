@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Solvo
+logging:
+  level:
+    org.springframework.boot.devtools: OFF
+    org.apache.catalina: WARN
